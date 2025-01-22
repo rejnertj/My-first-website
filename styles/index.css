@@ -1,5 +1,41 @@
 h1 {
     color: red;
+    font-size: 40px
+    font-weight: 300;
+    font-style: italic;
+    background-color; purple;
+
 }
 
 /*This is just to try using colours*/
+#second_paragraph{
+    color: rgb(156, 12, 158, 0.6);
+ 
+}
+
+
+p {
+    color: red;
+    color: orange;
+}
+
+
+.About-journal, .last-paragraph {
+    color: rgb(0, 0, 0);
+}
+body {
+    background-image: url(../images/irn-bru\ cow.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 200vh;
+}
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+    border-top: 5px solid green;
+    border-radius: 5px 10px 15px 20px;
+    box-shadow: 10px 10px 20px purple;
+}
