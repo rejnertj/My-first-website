@@ -1,9 +1,16 @@
 h1 {
     color: red;
-    font-size: 40px
+    font-size: 40px;    
     font-weight: 300;
     font-style: italic;
-    background-color; purple;
+    background-color: purple;
+
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+    border-top: 5px solid green;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 10px 10px 20px purple;
 
 }
 
@@ -36,6 +43,6 @@ img {
     border-style: solid;
     border-color: red;
     border-top: 5px solid green;
-    border-radius: 5px 10px 15px 20px;
+    border-radius: 10px 10px 10px 10px;
     box-shadow: 10px 10px 20px purple;
 }
