@@ -1,6 +1,6 @@
 body {
     background-color: darkgreen;
-        text-align: left;
+        text-align: center;
         font-size: 40px;
     }
 
@@ -13,10 +13,15 @@ h1 {
     background-color: rgb(255, 255, 255);
     text-align: center;
     font-family: "Red Hat Display", serif;
-    
+    letter-spacing: 5px;
 }
 h2 {
     color: black;
     font-size: 50;
     font-family: "Tinos", serif;
+    letter-spacing: 5px;
+}
+
+.fa-user-secret{
+    color: orange;
 }
